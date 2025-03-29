@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|c:\\users\\gizem\\source\\repos\\porfoliocore\\porfoliocore\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|solutionrelative:porfoliocore\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|c:\\users\\gizem\\source\\repos\\porfoliocore\\porfoliocore\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|solutionrelative:porfoliocore\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "PorfolioCore\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "PorfolioCore\\Views\\Test\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T18:55:43.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "PorfolioCore\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Controllers\\TestController.cs",
+              "RelativeToolTip": "PorfolioCore\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:52:09.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
