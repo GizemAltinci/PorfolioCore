@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|c:\\users\\gizem\\source\\repos\\porfoliocore\\porfoliocore\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|solutionrelative:porfoliocore\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|c:\\users\\gizem\\source\\repos\\porfoliocore\\porfoliocore\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|solutionrelative:porfoliocore\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|c:\\users\\gizem\\source\\repos\\porfoliocore\\porfoliocore\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|solutionrelative:porfoliocore\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|c:\\users\\gizem\\source\\repos\\porfoliocore\\porfoliocore\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|solutionrelative:porfoliocore\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|c:\\users\\gizem\\source\\repos\\porfoliocore\\porfoliocore\\views\\adminlayout\\partialscript.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|solutionrelative:porfoliocore\\views\\adminlayout\\partialscript.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|c:\\users\\gizem\\source\\repos\\porfoliocore\\porfoliocore\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|solutionrelative:porfoliocore\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|c:\\users\\gizem\\source\\repos\\porfoliocore\\porfoliocore\\views\\adminlayout\\partialhead.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EEC1480-117C-42B4-94D5-232368988CC9}|PorfolioCore\\PorfolioCore.csproj|solutionrelative:porfoliocore\\views\\adminlayout\\partialhead.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Views\\Test\\Index.cshtml",
-              "RelativeDocumentMoniker": "PorfolioCore\\Views\\Test\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Views\\Test\\Index.cshtml",
-              "RelativeToolTip": "PorfolioCore\\Views\\Test\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAcAAAA",
+              "DocumentIndex": 2,
+              "Title": "PartialScript.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Views\\AdminLayout\\PartialScript.cshtml",
+              "RelativeDocumentMoniker": "PorfolioCore\\Views\\AdminLayout\\PartialScript.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Views\\AdminLayout\\PartialScript.cshtml",
+              "RelativeToolTip": "PorfolioCore\\Views\\AdminLayout\\PartialScript.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T18:55:43.829Z",
+              "WhenOpened": "2025-04-02T18:38:10.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "PorfolioCore\\Controllers\\TestController.cs",
-              "ToolTip": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Controllers\\TestController.cs",
-              "RelativeToolTip": "PorfolioCore\\Controllers\\TestController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Title": "PartialSideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Views\\AdminLayout\\PartialSideBar.cshtml",
+              "RelativeDocumentMoniker": "PorfolioCore\\Views\\AdminLayout\\PartialSideBar.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Views\\AdminLayout\\PartialSideBar.cshtml",
+              "RelativeToolTip": "PorfolioCore\\Views\\AdminLayout\\PartialSideBar.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T18:09:39.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeDocumentMoniker": "PorfolioCore\\Views\\AdminLayout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeToolTip": "PorfolioCore\\Views\\AdminLayout\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T17:22:39.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminLayoutController.cs",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Controllers\\AdminLayoutController.cs",
+              "RelativeDocumentMoniker": "PorfolioCore\\Controllers\\AdminLayoutController.cs",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Controllers\\AdminLayoutController.cs",
+              "RelativeToolTip": "PorfolioCore\\Controllers\\AdminLayoutController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T18:52:09.955Z",
+              "WhenOpened": "2025-04-02T17:16:13.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartialHead.cshtml",
+              "DocumentMoniker": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Views\\AdminLayout\\PartialHead.cshtml",
+              "RelativeDocumentMoniker": "PorfolioCore\\Views\\AdminLayout\\PartialHead.cshtml",
+              "ToolTip": "C:\\Users\\gizem\\source\\repos\\PorfolioCore\\PorfolioCore\\Views\\AdminLayout\\PartialHead.cshtml",
+              "RelativeToolTip": "PorfolioCore\\Views\\AdminLayout\\PartialHead.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T17:39:07.179Z",
               "EditorCaption": ""
             }
           ]
