@@ -5,14 +5,14 @@
 
 <!doctype html>
 <html lang="en">
-@Html.Partial("PartialHead", "AdminLayout")
+@Html.Partial("/Views/AdminLayout/PartialHead.cshtml")
 
 <body>
 	
 	<div class="wrapper d-flex align-items-stretch">
-		
-			
-			@Html.Partial("PartialSidebar")
+
+
+		@Html.Partial("/Views/AdminLayout/PartialSidebar.cshtml")
 			
 		
 
@@ -21,7 +21,7 @@
 			 @RenderBody()
 		</div>
 	</div>
-	@Html.Partial("PartialScript")
+	@Html.Partial("/Views/AdminLayout/PartialScript.cshtml")
 	
 </body>
 </html>
